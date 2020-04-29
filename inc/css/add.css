@@ -1,0 +1,44 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+    height: 100%;
+    background:url(../img/img_1.jpg) no-repeat center center / cover;
+	color:#111;
+	font-size: 16px;
+	font-weight: 300;
+}
+input{
+	background:linear-gradient(to bottom, #D1CAEF, #27A9C9);
+	border:2px solid #95ABDD;
+}
+h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color:red;
+	display: inline; 	
+}
+#button{
+	font-size: 22px;
+	border-radius: 5px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color:#111;
+}
+a{
+	text-decoration: none;
+	background:linear-gradient(to bottom, #D1CAEF, #27A9C9);
+	border:2px solid #95ABDD;
+	font-size: 22px;
+	border-radius: 5px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	padding:3px;
+	color:#111;
+}
+select{
+	background:linear-gradient(to bottom, #D1CAEF, #27A9C9);
+	border:2px solid #95ABDD;
+}
+option{
+	background:linear-gradient(to bottom, #D1CAEF, #27A9C9);
+	border:2px solid #95ABDD;
+}

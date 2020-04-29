@@ -1,0 +1,40 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+    height: 100%;
+    background:url(../img/img_1.jpg) no-repeat center center / cover;
+	color:#111;
+	font-size: 16px;
+	font-weight: 300;
+	min-height:100%;
+}
+a{
+	text-decoration: none;
+	background:linear-gradient(to bottom, #D1CAEF, #27A9C9);
+	font-size: 18px;
+	border-radius: 5px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	padding:3px;
+	color:#111;
+}
+#del{
+	background: #D81500;
+	padding:4px; 
+}
+#upd{
+	background: #00D826;
+	padding:4px; 
+}
+table {
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+p{
+	display: inline;
+	font-size: 18px;
+	font-weight: bold;
+}
